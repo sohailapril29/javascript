@@ -1240,3 +1240,4 @@
 
 // https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops
 
+// now from today i wont pratice
