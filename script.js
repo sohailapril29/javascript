@@ -1240,4 +1240,26 @@
 
 // https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops
 
-// now from today i wont pratice
+// const ourArray = []; 
+// let i = 5;
+
+// while (i < 5) {
+//   ourArray.push(i);
+//   i++;
+// }
+// console.log(ourArray);
+
+// Setup
+// const myarray = [10];
+// let i =11;
+// do {
+//     i++;
+// } while (i < 12);
+// i--;
+// console.log(i);
+
+function sum(arr, n) {
+    // Only change code below this line
+  
+    // Only change code above this line
+  }
